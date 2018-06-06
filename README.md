@@ -10,3 +10,6 @@ The goal of this project is to create an interactive java program to allow users
 Movie Data Source:
 
 The movie information comes from themoviedb.org. They have a free web API where web requests can be made to obtain to get the necessary movie information. Note that the API has 2 end points that we used to get information from. The first end point was used to return a list of movies in JSON format based on movie category selection by the user. The second endpoint was used to return a movie poster in the form of an image for a given movie. 
+
+Notes:
+Code was written using Java SE 7. Java EE features not avaibable
